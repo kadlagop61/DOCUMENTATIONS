@@ -1,4 +1,4 @@
-<h1 align="center">🌾 [Your Project Name]</h1>
+<h1 align="center">🌾 CropGuard AI</h1>
 <h3 align="center">Early detection and management of crop diseases and pest infestations</h3>
 
 <p align="center">
