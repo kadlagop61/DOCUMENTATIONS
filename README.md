@@ -27,12 +27,3 @@ A farmer-friendly crop-health system that supports image-based symptom identific
 *   **Geospatial Mapping:** Leaflet.js dashboard mapping disease hotspots for officials.
 *   **Offline-First Architecture:** Local storage buffering for rural areas with low connectivity.
 *   **Multilingual Advisories:** Localized guidance on safe pesticide use and interventions.
-
-## 💻 Local Setup & Installation
-
-**Prerequisites:** Node.js (v18+), Python (3.9+), Git
-
-1. **Clone the repository:**
-   ```bash
-   git clone [https://github.com/YourOrganization/YourRepoName.git](https://github.com/YourOrganization/YourRepoName.git)
-   cd YourRepoName
